@@ -17,3 +17,8 @@ For Employee details another table (Text CSV) was connected to get more data whi
 Connected with 1:1
 Employee Number(from HR Analytics Data) : Employee Number(from HR Employee Data)
 For Visualizations I chose some metrics from Selection features for columns e.g. meter, years, on service……..
+
+
+![image](https://user-images.githubusercontent.com/100975167/227798161-7ac7284f-f8a7-43ef-8ac0-a1c76431a5f7.png)
+
+
